@@ -67,3 +67,15 @@ Gustavo
 ===== Prefixos na Mesma Linha =====
 G Gu Gus Gust Gusta Gustav Gustavo
 ```
+
+## 3_exercise
+Join: Junta os elementos de uma lista com um separador específico (Código todo comentado com explicação.)
+
+### Saída
+```
+Ana Carlos Bruna
+Python
+Linha 1
+Linha 2
+Linha 3
+```
