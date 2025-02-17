@@ -21,3 +21,4 @@ def show_results(n1, n2):
 
 if __name__ == "__main__":
     main()
+    input("\n Pressione Enter para sair...")

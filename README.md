@@ -1,1 +1,37 @@
 # python_exercise
+
+## Dependências
+
+- Para instalar o PyInstaller (Para transformar em .exe)
+```
+pip install pyinstaller
+```
+
+- Para transformar o projeto em .exe
+```
+pyinstaller --onefile script.py
+```
+
+- Para colocar icone o .exe
+```
+pyinstaller --onefile --icon=icone.ico script.py
+```
+
+## 1_exercise
+Um projeto que recebe dois valores para fazer a soma, subtração, multiplacação e divisão.
+
+Saída
+```
+Digite o primeiro valor
+50
+Digite o segundo valor
+30
+
+Soma: 80.0
+Subtração: 20.0
+Vezes: 1500.0
+Divisão: 1.6666666666666667
+
+
+Pressione Enter para sair...
+```
