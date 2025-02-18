@@ -79,3 +79,16 @@ Linha 1
 Linha 2
 Linha 3
 ```
+
+## 4_exercise
+Valida o email conforme a entrada de dados
+
+### Saída
+```
+Digite um email:
+vasco@gmail.com
+
+Email válido
+
+Pressione Enter para sair...
+```
