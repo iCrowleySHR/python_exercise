@@ -1,9 +1,17 @@
-value = []
+from src.functions import createColumn, createLine
 
-for x in range(3):
-   value.append(x)
+def main():
    
-for y in range(3):
-    print(value)
-    
+   print("Quantos valores na primera linha? ")
+   userLine = int(input())
+   
+   print("Quantas colunas?")
+   userColumn = int(input())
+   
+   line = createLine(userLine)
+   result = createColumn(userColumn, line)
+   print(result)
 
+if __name__  == "__main__":
+    main()
+    input('\nPressione Enter para sair...')
