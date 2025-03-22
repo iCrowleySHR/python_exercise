@@ -92,3 +92,16 @@ Email válido
 
 Pressione Enter para sair...
 ```
+
+## 6_exercise
+Sorteio de números de 1 a 10
+
+### Saída
+```
+Sorteio de números de 1 a 10
+8
+[3, 6, 4, 5, 9]
+[8, 3, 9, 7, 1, 5, 2, 10, 6, 4]
+
+ Pressione Enter para sair...  
+```
