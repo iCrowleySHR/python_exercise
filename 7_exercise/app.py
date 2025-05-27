@@ -21,3 +21,4 @@ resultado = " ".join(valor)
 
 # Imprime a string final com todos os nomes juntos
 print(resultado)
+
